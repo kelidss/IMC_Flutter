@@ -79,8 +79,8 @@ class _HomeState extends State <Home> {
           padding: const EdgeInsets.all(1.0),
           children: <Widget>[
             Image.asset(
-              'assets/baki.jpg',
-              height: 200,
+              'assets/gym2.jpg',
+              height: 300,
               width: 100,
             ),
             Container(
